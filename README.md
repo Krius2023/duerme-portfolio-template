@@ -16,4 +16,3 @@ Modify pages content in  `src/content_option.js`.
 
 Note
 Repo name is same as what you have given in hompage property (in package.json file)
-
